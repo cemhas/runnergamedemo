@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{98D2D244-21FB-AB45-20DF-985F0211750F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelFailed.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Camera Scripts/CameraFollow.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerController.cs" Line="85" Column="26" />
+      <File FileName="Assets/Scripts/Player Scripts/PlayerCollision.cs" Line="52" Column="10" />
+      <File FileName="Assets/Scripts/Wood Scripts/WoodCollision.cs" Line="28" Column="6" />
+      <File FileName="Assets/Scripts/Spawn Scripts/ObjectSpawner.cs" />
+      <File FileName="Assets/Scripts/Game Manager Scripts/GameManager.cs" Line="13" Column="30" />
+      <File FileName="Assets/Scripts/LevelFailed.cs" Line="19" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RunnerGameDemo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Camera Scripts" expanded="True" />
+                <Node name="Game Manager Scripts" expanded="True" />
+                <Node name="Player Scripts" expanded="True" />
+                <Node name="Spawn Scripts" expanded="True" />
+                <Node name="Wood Scripts" expanded="True" />
+                <Node name="LevelFailed.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="726e56fe-7671-4db4-b7df-e22a56f5c7aa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
